@@ -1,0 +1,21 @@
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.exe
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.deps.json
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.runtimeconfig.json
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.runtimeconfig.dev.json
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.dll
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.pdb
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.AssemblyInfoInputs.cache
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.AssemblyInfo.cs
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.dll
+C:\Users\fkoft\source\repos\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.pdb
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.exe
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.deps.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.runtimeconfig.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.runtimeconfig.dev.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.dll
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\bin\Debug\netcoreapp3.1\Lab4.4.pdb
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.csprojAssemblyReference.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.AssemblyInfoInputs.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.AssemblyInfo.cs
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.dll
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab4\Lab4.4\Lab4.4\obj\Debug\netcoreapp3.1\Lab4.4.pdb
