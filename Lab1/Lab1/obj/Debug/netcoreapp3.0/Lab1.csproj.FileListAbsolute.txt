@@ -1,0 +1,22 @@
+F:\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.exe
+F:\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.deps.json
+F:\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.runtimeconfig.json
+F:\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.runtimeconfig.dev.json
+F:\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.dll
+F:\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.pdb
+F:\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.csprojAssemblyReference.cache
+F:\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfoInputs.cache
+F:\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfo.cs
+F:\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.dll
+F:\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.pdb
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.exe
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.deps.json
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.runtimeconfig.json
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.runtimeconfig.dev.json
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.dll
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\bin\Debug\netcoreapp3.0\Lab1.pdb
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.csprojAssemblyReference.cache
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfoInputs.cache
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfo.cs
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.dll
+F:\!Всё\Учеба\3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab1\Lab1\obj\Debug\netcoreapp3.0\Lab1.pdb
