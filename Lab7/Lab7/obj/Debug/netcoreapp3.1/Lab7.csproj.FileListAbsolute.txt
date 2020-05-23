@@ -1,0 +1,13 @@
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.exe
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.deps.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.runtimeconfig.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.runtimeconfig.dev.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.dll
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.pdb
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.csprojAssemblyReference.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.AssemblyInfoInputs.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.AssemblyInfo.cs
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.dll
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.pdb
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.csproj.CoreCompileInputs.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.genruntimeconfig.cache
