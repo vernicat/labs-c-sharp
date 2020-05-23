@@ -1,0 +1,10 @@
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\bin\Debug\netcoreapp3.1\P2E2 BigClass.exe
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\bin\Debug\netcoreapp3.1\P2E2 BigClass.deps.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\bin\Debug\netcoreapp3.1\P2E2 BigClass.runtimeconfig.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\bin\Debug\netcoreapp3.1\P2E2 BigClass.runtimeconfig.dev.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\bin\Debug\netcoreapp3.1\P2E2 BigClass.dll
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\bin\Debug\netcoreapp3.1\P2E2 BigClass.pdb
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\obj\Debug\netcoreapp3.1\P2E2 BigClass.AssemblyInfoInputs.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\obj\Debug\netcoreapp3.1\P2E2 BigClass.AssemblyInfo.cs
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\obj\Debug\netcoreapp3.1\P2E2 BigClass.dll
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\IComparable\obj\Debug\netcoreapp3.1\P2E2 BigClass.pdb

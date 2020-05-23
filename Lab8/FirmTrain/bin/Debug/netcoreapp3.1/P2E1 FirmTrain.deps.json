@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P2E1 FirmTrain/1.0.0": {
+        "runtime": {
+          "P2E1 FirmTrain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P2E1 FirmTrain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
