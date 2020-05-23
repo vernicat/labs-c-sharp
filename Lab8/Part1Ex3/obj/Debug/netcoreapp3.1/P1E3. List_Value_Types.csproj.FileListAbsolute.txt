@@ -1,0 +1,10 @@
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\bin\Debug\netcoreapp3.1\P1E3. List_Value_Types.exe
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\bin\Debug\netcoreapp3.1\P1E3. List_Value_Types.deps.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\bin\Debug\netcoreapp3.1\P1E3. List_Value_Types.runtimeconfig.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\bin\Debug\netcoreapp3.1\P1E3. List_Value_Types.runtimeconfig.dev.json
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\bin\Debug\netcoreapp3.1\P1E3. List_Value_Types.dll
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\bin\Debug\netcoreapp3.1\P1E3. List_Value_Types.pdb
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\obj\Debug\netcoreapp3.1\P1E3. List_Value_Types.AssemblyInfoInputs.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\obj\Debug\netcoreapp3.1\P1E3. List_Value_Types.AssemblyInfo.cs
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\obj\Debug\netcoreapp3.1\P1E3. List_Value_Types.dll
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\obj\Debug\netcoreapp3.1\P1E3. List_Value_Types.pdb

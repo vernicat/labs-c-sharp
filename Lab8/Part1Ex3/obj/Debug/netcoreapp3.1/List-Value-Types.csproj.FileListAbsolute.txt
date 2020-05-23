@@ -1,0 +1,3 @@
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\obj\Debug\netcoreapp3.1\List-Value-Types.csprojAssemblyReference.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\obj\Debug\netcoreapp3.1\List-Value-Types.AssemblyInfoInputs.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\Part1Ex3\obj\Debug\netcoreapp3.1\List-Value-Types.AssemblyInfo.cs
