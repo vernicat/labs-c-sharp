@@ -1,0 +1,9 @@
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\obj\Debug\TimerEvents.Form1.resources
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\bin\Debug\TimerEvents.exe.config
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\bin\Debug\TimerEvents.exe
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\bin\Debug\TimerEvents.pdb
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\obj\Debug\TimerEvents.exe
+F:\ДГТУ. 3 курс 6 семетр\Межплатформенное программирование (МП) Васильев+Магомедов\Lab8\Lab8\TimerEvents\obj\Debug\TimerEvents.pdb
