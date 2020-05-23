@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vernicat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vernicat\\.nuget\\packages"
+    ]
+  }
+}
